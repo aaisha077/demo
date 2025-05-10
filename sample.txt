@@ -1,1 +1,13 @@
 my name is aaisha umrah
+
+
+git init -- initialize your directory
+git config --already done
+git remote add origin <link> -- add the remote repository for push ing code 
+git push origin main
+git pull origin main
+git clone <link>
+git status
+git add filename
+git commit filename -m "message"
+git log
